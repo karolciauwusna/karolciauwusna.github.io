@@ -20,3 +20,10 @@ li {
     color: rgb(31, 31, 31);
     padding: 5px;
 }
+
+div
+
+{
+    max-width: 800px;
+    margin: auto;
+}
